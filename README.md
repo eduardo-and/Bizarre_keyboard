@@ -13,7 +13,7 @@ Bizarre Keyboard é um game desenvolvido como parte de um trabalho da disciplina
 
 ##### 1. Baixe o Processing 3.
 ##### 2. Após realizar o clone do projeto, abra o Processing e clique em Arquivo>Abrir (ctrl+o).
-  #####  2.1 Na pasta Bizarre_keyboard selecione o arquivo Bizarre_keyboard.
+  ##### &nbsp; 2.1 Na pasta Bizarre_keyboard selecione o arquivo Bizarre_keyboard.
    ![abrir](/images/open.png)
    
 ##### 3. Após abrir o arquivo, no Processing clique em Ferramentas>Adicionar Ferramenta...   

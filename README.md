@@ -2,7 +2,7 @@
 
 **Author:** Eduardo de Andrade;
 
-**Languages:** CSS, HTML;
+**Languages/Tools/Frameworks:** Processing,Photoshop;
 
 **Data:** 24/04/2020
 

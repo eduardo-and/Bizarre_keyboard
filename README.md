@@ -2,7 +2,10 @@
 
 **Author:** Eduardo de Andrade;
 
-**Languages/Tools/Frameworks:** Processing,Photoshop;
+**Languages/Tools/Frameworks:** 
+  
+  * Processing
+  * Photoshop
 
 **Data:** 24/04/2020
 

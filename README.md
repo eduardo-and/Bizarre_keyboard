@@ -1,4 +1,4 @@
-# Bizarre_keyboard
+# Bizarre_keyboard :musical_keyboard:
 
 **Author:** Eduardo de Andrade;
 

@@ -12,7 +12,7 @@ Bizarre Keyboard é um game desenvolvido como parte de um trabalho da disciplina
 **Run:**
 
 ##### 1. Baixe o Processing 3.
-##### 2. Após realizar o clone do projeto, abra o Processing e clique em Arquivo>Abrir (ctrl+o).
+##### 2. Após realizar o clone do projeto, abra o Processing e clique em Arquivo>Abrir (<kbd>ctrl</kbd>+<kbd>o</kbd>).
   ##### &nbsp; 2.1 Na pasta Bizarre_keyboard selecione o arquivo Bizarre_keyboard.
    ![abrir](/images/open.png)
    
@@ -23,7 +23,7 @@ Bizarre Keyboard é um game desenvolvido como parte de um trabalho da disciplina
 ![Install b](/images/sound.png)
 ##### 5. Após instalar a biblioteca clique no botão play e aguarde o carregamento da nova janela
 ![Execute](/images/play.png)
-##### 6. Pronto! Aumente o volume, game já pode ser utilizado, para tocar basta clicar em um dos edifícios ou precissionar as teclas de 'a' a 'l' e de 'z' a 'm'.
+##### 6. Pronto! Aumente o volume, game já pode ser utilizado, para tocar basta clicar em um dos edifícios ou precissionar as teclas de <kbd>a</kbd> até <kbd>l</kbd> e de <kbd>z</kbd> até <kbd>m</kbd>.
 ![Execute](/images/game.gif)
 
 *Para sair basta pressionar esc ou fechar a janela.*

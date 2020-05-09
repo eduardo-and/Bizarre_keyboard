@@ -7,7 +7,7 @@
   * Processing
   * Photoshop
 
-**Data:** 24/04/2020
+**Date:** 24/04/2020
 
 **Description:**
 Bizarre Keyboard é um game desenvolvido como parte de um trabalho da disciplina de Tópicos 2, do curso de Ciência da computação da Universidade Federal de Goiás. O projeto é bem simples, foi desenvolvido com o Processing 3, e básicamente é um teclado músical, que funciona sob um background de uma noite de lua, pode ser controlado pela teclado(input) ou pelo click do mouse, o design foi desenvolvido com um tema macabro, com referências do cinema, jogos e fábulas. 
